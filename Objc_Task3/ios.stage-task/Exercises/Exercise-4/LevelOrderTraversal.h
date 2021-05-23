@@ -3,6 +3,7 @@
 
 #import <Foundation/Foundation.h>
 
+extern int gIndex;
 NSArray *LevelOrderTraversalForTree(NSArray *tree);
 
 #endif /* LevelOrderTraversal_h */
